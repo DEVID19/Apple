@@ -63,7 +63,8 @@ cd Apple
 npm install
 npm run dev
 
----
+------
+
 ## 🌟 Give it a Star
 If this project inspired you or helped you learn something, consider starring the repo! ⭐
 It helps support future projects and improvements.
